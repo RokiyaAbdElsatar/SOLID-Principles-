@@ -27,28 +27,6 @@ For each principle, I follow these steps:
 
 ---
 
-## ✅ Progress
-
-### 1. Single Responsibility Principle (SRP)
-
-**Definition:** A class should have one responsibility and one reason to change.
-
-**Practical Example:** Student Report Management
-
-The exercise focuses on separating the responsibilities involved in managing a student's report:
-
-- `Student`: Stores the student's information and grades.
-- `CalculateAverage`: Calculates the average grade.
-- `StudentReport`: Holds the student and the calculated average.
-- `DisplayReport`: Displays the report.
-- `SaveToDatabase`: Handles saving the report.
-
-**Key Takeaway:**
-
-Separating responsibilities makes code easier to understand, maintain, test, and modify. Each class should have a clear purpose rather than handling several unrelated tasks.
-
----
-
 ## 🛠️ Technologies
 
 - Dart

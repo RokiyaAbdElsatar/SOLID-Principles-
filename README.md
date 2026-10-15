@@ -13,7 +13,7 @@ This repository contains hands-on exercises designed to understand each principl
 
 | Principle | Description | Status | Details | Interview Questions |
 |---|---|---|---|---|
-| **S — Single Responsibility Principle (SRP)** | A class should have one responsibility and one reason to change. | ✅ Completed | [Read More](SRP.md) | [Practice Questions](SRP-INTERVIEW-QUESTIONS.md) |
+| **S — Single Responsibility Principle (SRP)** | A class should have one responsibility and one reason to change. | ✅ Completed | [Read More](SRP/SRP.md) | [Practice Questions](SRP/SRP-INTERVIEW-QUESTIONS.md) |
 | **O — Open/Closed Principle (OCP)** | Open for extension, closed for modification. | ⏳ Not Started | Coming Soon | Coming Soon |
 | **L — Liskov Substitution Principle (LSP)** | Subtypes should be replaceable for their base types. | ⏳ Not Started | Coming Soon | Coming Soon |
 | **I — Interface Segregation Principle (ISP)** | Clients should not depend on methods they don't use. | ⏳ Not Started | Coming Soon | Coming Soon |

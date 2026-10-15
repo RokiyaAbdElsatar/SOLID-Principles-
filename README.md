@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="E:/Courses/Self Training/SOLID Principles/Solid-principles.png" alt="SOLID Principles in Dart" width="100%">
+</p>
+
+<h1 align="center">SOLID Principles in Dart</h1>
+
 # SOLID Principles in Dart
 
 A practical journey to understanding and applying the SOLID principles using Dart.

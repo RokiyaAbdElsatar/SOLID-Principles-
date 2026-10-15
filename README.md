@@ -6,13 +6,13 @@ This repository contains hands-on exercises designed to understand each principl
 
 ## 📚 SOLID Principles
 
-| Principle | Description | Status | Details |
-|---|---|---|---|
-| **S — Single Responsibility Principle (SRP)** | A class should have one responsibility and one reason to change. | ✅ Completed | [Read More](SRP.md) |
-| **O — Open/Closed Principle (OCP)** | Open for extension, closed for modification. | ⏳ Not Started | Coming Soon |
-| **L — Liskov Substitution Principle (LSP)** | Subtypes should be replaceable for their base types. | ⏳ Not Started | Coming Soon |
-| **I — Interface Segregation Principle (ISP)** | Clients should not depend on methods they don't use. | ⏳ Not Started | Coming Soon |
-| **D — Dependency Inversion Principle (DIP)** | Depend on abstractions rather than concrete implementations. | ⏳ Not Started | Coming Soon |
+| Principle | Description | Status | Details | Interview Questions |
+|---|---|---|---|---|
+| **S — Single Responsibility Principle (SRP)** | A class should have one responsibility and one reason to change. | ✅ Completed | [Read More](SRP.md) | [Practice Questions](SRP-INTERVIEW-QUESTIONS.md) |
+| **O — Open/Closed Principle (OCP)** | Open for extension, closed for modification. | ⏳ Not Started | Coming Soon | Coming Soon |
+| **L — Liskov Substitution Principle (LSP)** | Subtypes should be replaceable for their base types. | ⏳ Not Started | Coming Soon | Coming Soon |
+| **I — Interface Segregation Principle (ISP)** | Clients should not depend on methods they don't use. | ⏳ Not Started | Coming Soon | Coming Soon |
+| **D — Dependency Inversion Principle (DIP)** | Depend on abstractions rather than concrete implementations. | ⏳ Not Started | Coming Soon | Coming Soon |
 ---
 
 ## 🎯 Learning Approach

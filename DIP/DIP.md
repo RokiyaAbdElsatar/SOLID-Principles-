@@ -1,5 +1,8 @@
 # Dependency Inversion Principle (DIP)
 
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/33876c3f-8ca6-4868-83a3-78676d1f912e" />
+
+
 ## 1. What is DIP?
 
 The **Dependency Inversion Principle (DIP)** is the fifth principle of SOLID.

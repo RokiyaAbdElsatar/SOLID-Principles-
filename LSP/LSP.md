@@ -1,5 +1,8 @@
 # Liskov Substitution Principle (LSP)
 
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/77eb814e-c981-4506-9414-e90ee26f75db" />
+
+
 ## 1. What is LSP?
 
 The **Liskov Substitution Principle (LSP)** is the third principle of SOLID.

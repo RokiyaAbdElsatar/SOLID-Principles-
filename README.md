@@ -19,7 +19,7 @@ Each principle focuses on identifying design problems, understanding why they oc
 | Principle | Description | Documentation | Interview Questions |
 |---|---|---|---|
 | **S — Single Responsibility Principle (SRP)** | A class should have one responsibility and one reason to change. | [Read More](SRP/SRP.md) | [Practice Questions](SRP/SRP-INTERVIEW-QUESTIONS.md) |
-| **O — Open/Closed Principle (OCP)** | Software entities should be open for extension but closed for modification. | [Read More](OCP/OCP.md) | [Practice Questions](OCP/OCP-INTERVIEW-QUESTIONS.md) |
+| **O — Open/Closed Principle (OCP)** | Software entities should be open for extension but closed for modification. | [Read More](OCP/OCP-README.md) | [Practice Questions](OCP/OCP-INTERVIEW-QUESTIONS.md) |
 | **L — Liskov Substitution Principle (LSP)** | Subtypes should be replaceable for their base types without breaking expected behavior. | [Read More](LSP/LSP.md) | [Practice Questions](LSP/LSP-INTERVIEW-QUESTIONS.md) |
 | **I — Interface Segregation Principle (ISP)** | Clients should not be forced to depend on methods they do not use. | [Read More](ISP/ISP.md) | [Practice Questions](ISP/ISP-INTERVIEW-QUESTIONS.md) |
 | **D — Dependency Inversion Principle (DIP)** | High-level modules should depend on abstractions, not concrete implementations. | [Read More](DIP/DIP.md) | [Practice Questions](DIP/DIP-INTERVIEW-QUESTIONS.md) |

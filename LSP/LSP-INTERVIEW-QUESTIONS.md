@@ -1,4 +1,4 @@
-# LSP Interview Questions
+ # LSP Interview Questions
 
 Test your understanding of the **Liskov Substitution Principle (LSP)** with these multiple-choice interview questions.
 
